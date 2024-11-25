@@ -33,12 +33,12 @@ Welcome to **RPS 9000**, a Rock-Paper-Scissors game implemented in Python! Test 
 
 3. Enter one of the following:
 
-```bash
-- rock
-- paper
-- scissors
-- Or type exit to quit the game.
-```
+    ```bash
+    - rock
+    - paper
+    - scissors
+    - Or type exit to quit the game.
+    ```
 
 4. After entering a move:
 
