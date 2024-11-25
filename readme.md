@@ -43,7 +43,7 @@ Welcome to **RPS 9000**, a Rock-Paper-Scissors game implemented in Python! Test 
 4. After entering a move:
 
     ```bash
-    - Your move and the AI's move will be displayed.
+    - Your move and the AIs move will be displayed.
     - The program will announce the result (win, lose, or tie).
     ```
 
