@@ -57,7 +57,7 @@ Welcome to **RPS 9000**, a Rock-Paper-Scissors game implemented in Python! Test 
 
 -Handles the logic of the Rock-Paper-Scissors game.
 
--**play_game()**
+**play_game()**
 
 - Prompts the user for input.
 
@@ -65,11 +65,11 @@ Welcome to **RPS 9000**, a Rock-Paper-Scissors game implemented in Python! Test 
 
 - Calls methods to display moves and determine the result.
 
-- **display_moves(user_move, ai_move)**
+ **display_moves(user_move, ai_move)**
 
 - Displays the player's and AI's moves with emojis.
 
--**check_move(user_move, ai_move)**
+**check_move(user_move, ai_move)**
 
 - Determines and announces the result of the round.
 
