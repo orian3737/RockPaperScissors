@@ -53,7 +53,7 @@ Welcome to **RPS 9000**, a Rock-Paper-Scissors game implemented in Python! Test 
 
 ### Classes and Methods
 
--**RPS Class**
+**RPS Class**
 
 -Handles the logic of the Rock-Paper-Scissors game.
 
